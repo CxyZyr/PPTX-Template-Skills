@@ -1,0 +1,7 @@
+interface:
+  display_name: "PPTX Template Parsing"
+  short_description: "Parse PPTX templates into semantic specs"
+  default_prompt: "Use $pptx-template-parsing to parse this PPTX template into a semantic spec before generation."
+
+policy:
+  allow_implicit_invocation: true

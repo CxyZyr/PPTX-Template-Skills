@@ -1,0 +1,7 @@
+interface:
+  display_name: "PPT Template Adaptation"
+  short_description: "Generate PPT decks from parsed templates"
+  default_prompt: "Use $ppt-template-adaptation to fill a parsed PPT template into a new deck."
+
+policy:
+  allow_implicit_invocation: true

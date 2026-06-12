@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Secrets / local env
+.env
+*.env
+
+# Generated artifacts (workspace is runtime output, not source)
+workspace/
+*.pptx
+!**/PPT模板/*.pptx
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
