@@ -1,5 +1,5 @@
 # PPTX Template Skills
-**English** | [简体中文](README.md)
+**English** | [简体中文](README.zh-CN.md)
 
 Two composable skills that turn a PowerPoint **template** into a freshly filled deck —
 without an agent ever hand-reading shape indices off a slide. Parsing produces a portable,
