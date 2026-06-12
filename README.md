@@ -85,3 +85,6 @@ reference read order.
 ## License
 
 [MIT](LICENSE) © 2026 JerryChou
+
+## 社区
+> This open-source project links to and endorses the [LINUX DO Community](https://linux.do).
